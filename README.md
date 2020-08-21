@@ -24,9 +24,11 @@ Una vez que tenga maven en su computadora, dirijase a la carpeta raiz del taller
 
 **mvn package**
 
-Para poder ejecutar el programa introduce el siguiente comando
+Para poder ejecutar el programa introduce el siguiente comando, una vez el servicio este corriendo podras abrir la pagina desde el browser con la siguiente dirección http://localhost:4567/
 
-**java -cp target/taller-1-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.App**
+**mvn exec:java -Dexec.mainClass="edu.escuelaing.arep.app.App"**
+
+![compilar](images/compilar.png)
 
 ## Pruebas  [![CircleCI](https://circleci.com/gh/Edyesid/AREP-Taller-2.svg?style=svg)](https://circleci.com/gh/Edyesid/AREP-Taller-2)
 
