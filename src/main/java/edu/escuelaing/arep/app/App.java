@@ -16,7 +16,7 @@ public class App {
     public static void main(String [] argv){
 
         staticFiles.location("/public");
-
+        port(getPort());
 		post("/calculator", (request, response) -> {
 			LinkedList list = new LinkedList();
 			Double list2[] = new Double[] {};
