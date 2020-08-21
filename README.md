@@ -1,4 +1,4 @@
-# Arquitecturas empresariales - Taller 1
+# Arquitecturas empresariales - Taller 2
 El objetivo de este programa es calcular la media y la desviación estándar de una lista de números que se leen desde un archivo dentro de los archivos del programa. Para esto se hace uso de una lista doblemente enlazada donde cada nodo contiene el valor.
 
 ## Prerequisitos
@@ -28,7 +28,7 @@ Para poder ejecutar el programa introduce el siguiente comando
 
 **java -cp target/taller-1-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.App**
 
-## Pruebas  [![CircleCI](https://circleci.com/gh/Edyesid/AREP-taller-01.svg?style=svg)](https://circleci.com/gh/Edyesid/AREP-taller-01)
+## Pruebas  [![CircleCI](https://circleci.com/gh/Edyesid/AREP-Taller-2.svg?style=svg)](https://circleci.com/gh/Edyesid/AREP-Taller-2)
 
 Se muestran los dos ejemplos que estan en el pdf del taller 
 
