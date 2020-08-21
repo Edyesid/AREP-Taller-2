@@ -28,7 +28,7 @@ Para poder ejecutar el programa introduce el siguiente comando
 
 **java -cp target/taller-1-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.App**
 
-## Pruebas  [![CircleCI](https://circleci.com/gh/Edyesid/AREP-taller-2.svg?style=svg)](https://circleci.com/gh/Edyesid/AREP-taller-2)
+## Pruebas  [![CircleCI](https://circleci.com/gh/Edyesid/AREP-Taller-2.svg?style=svg)](https://circleci.com/gh/Edyesid/AREP-Taller-2)
 
 Se muestran los dos ejemplos que estan en el pdf del taller 
 
