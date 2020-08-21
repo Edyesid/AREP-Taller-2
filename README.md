@@ -44,6 +44,13 @@ Finalmente estos son los datos obtenidos del programa, los cuales concuerda con 
 
 ![prueba1](images/prueba1.png)
 
+Para las pruebas de la pagina web se realizaron los calculos con los mismos datos de las pruebas anteriores y estos fueron los resultados
+
+![prueba2](images/prueba2.png)
+![prueba3](images/prueba3.png)
+En el caso que el usuario no halla insertado datos o los halla insertado mal se mostrara el siguiente aviso
+![prueba4](images/prueba4.png)
+
 ## Construido
 
 [Eclipse](https://www.eclipse.org/) plataforma de código abierto para el desarrollo de aplicaciones
