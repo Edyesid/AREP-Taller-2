@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/AREP-Taller-2-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.App
+web: java $JAVA_OPTS -cp target/classes:target/dependency/*edu.escuelaing.arep.app.App
