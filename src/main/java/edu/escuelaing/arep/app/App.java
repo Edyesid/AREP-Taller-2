@@ -1,10 +1,7 @@
 package edu.escuelaing.arep.app;
 
 import static spark.Spark.*;
-import java.io.*;
-import com.google.gson.Gson;
 
-import spark.QueryParamsMap;
 
 /**
  * @author Edwin Rodriguez Clase principal de lectura de archivos y impresion de
