@@ -48,7 +48,9 @@ Para las pruebas de la pagina web se realizaron los calculos con los mismos dato
 
 ![prueba2](images/prueba2.png)
 ![prueba3](images/prueba3.png)
+
 En el caso que el usuario no halla insertado datos o los halla insertado mal se mostrara el siguiente aviso
+
 ![prueba4](images/prueba4.png)
 
 ## Construido
